@@ -1,3 +1,4 @@
 # hello-world-2
-It is a Demo Repo
-################
+This is a simple App for calculating Area of Circle
+###################################################
+
